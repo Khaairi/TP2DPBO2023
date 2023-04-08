@@ -60,6 +60,25 @@ Selain di atas terdapat juga fitur tambahan sepert error handling untuk login da
 8. Jika user menekan tombol update maka akan keluar form untuk mengubah data.
 Note: tambahkan data director terlebih dahulu baru data film agar pilihan director pada form tambah data film terdapat data data director dan tidak kosong.
 
-* untuk mencoba login dapat menggunakan akun berikut
-username: mokha
+* untuk mencoba login dapat menggunakan akun berikut\
+username: mokha\
 password: mokha30
+
+**Note: Jar file mungkin tidak berjalan dengan baik, jadi lebih baik jalankan program langsung melalui Netbeans dan pastikan untuk import jbdc driver ke folder lib terlebih dahulu sebelum menjalankan program**
+
+## Dokumentasi
+* Register
+
+![image](https://user-images.githubusercontent.com/100757455/230727263-e74abff7-7fe2-4412-ae39-a3b396540f28.png)
+* Main Panel
+
+![image](https://user-images.githubusercontent.com/100757455/230727310-cfc57756-f3d2-49ef-9bee-fe1da307bee6.png)
+* Add Data (film)
+
+![image](https://user-images.githubusercontent.com/100757455/230727451-35b1f7e3-f15b-42d1-a81a-a4ed44c0a584.png)
+* Update Data (director)
+
+![image](https://user-images.githubusercontent.com/100757455/230727497-7d292756-ced0-4ea2-9cd7-3891d13f8f34.png)
+* Delete Data
+
+![image](https://user-images.githubusercontent.com/100757455/230727536-bd44137a-3226-4d77-ae12-81e85df647b5.png)
