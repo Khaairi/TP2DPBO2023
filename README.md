@@ -14,6 +14,8 @@ Buatlah program Java yang terkoneksi dengan database MySQL. Berikut spesifikasi 
 *Boleh login dan/atau register. Tidak perlu ada enkripsi password
 
 ## Desaign Program
+![tp2_desain drawio](https://user-images.githubusercontent.com/100757455/231213479-6b6a5c9e-d0ed-4d55-95be-b277a7633cd0.png)
+
 Pada program ini terdapat delapan class dengan class `Login` sebagai main class.
 * `Login` : Class ini berupa JFrame yang di dalamnya terdapat atribut db (merupakan instansiasi dari class dbConnection). Pada class ini terdapat button sign up untuk membuka JFrame `Register` dan button sign in yang berfungsi untuk menangkap data dari field dan divalidasi dengan data yang ada di database.
 * `Register` : Class ini berupa JFrame yang di dalamnya terdapat atribut db. Pada class ini terdapat button sign up yang berfungsi untuk menampung masukkan data dari user pada field dan memasukkannya ke database. Button cancel yang tehubung dengan method resetForm() yaitu untuk mereset form sehingga kembali kosong. Button back untuk kembali ke JFrame `Login`.
